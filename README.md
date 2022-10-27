@@ -23,3 +23,4 @@ Functionality:
 
 
 Full instructions on how to use the bot can be found here: 
+https://holder.io/ru/kak-poluchat-vajtlisty-v-nft-proektah-ispolzuya-bota-na-python/
